@@ -1,63 +1,59 @@
-# 👋 Hi, I'm Zulqurnain
+<div align="center">
 
-🛠️ Full-stack developer & automation builder — Next.js, React, Supabase, Flutter, C#.<br>
-🚀 Running **Zupra Solutions** — building WhatsApp order-automation systems for e-commerce.<br>
-👕 Co-building **Elesh Clothing** — Next.js/Supabase e-commerce, COD ordering, Meta Ads.<br>
-🎓 BS Computer Science, University of Faisalabad.<br>
-⚙️ Heavy on automation: n8n, ManyChat, Google Apps Script.<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Zulqurnain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Branch%20out.%20Automate%20greatness.&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqurnain-hyder-793565280)
-[![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6fa9f7519f5da8e)
-[![Website](https://img.shields.io/badge/Zupra%20Solutions-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zuprasolutions.com)
+<p align="center">
+  <a href="https://github.com/Mr-Zulki?tab=repositories"><img src="https://img.shields.io/github/stars/Mr-Zulki?style=for-the-badge&color=black&labelColor=000000" /></a>
+  <a href="https://github.com/Mr-Zulki?tab=repositories"><img src="https://img.shields.io/badge/FORKS-0-black?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/Mr-Zulki?tab=followers"><img src="https://img.shields.io/github/followers/Mr-Zulki?style=for-the-badge&color=black&labelColor=000000" /></a>
+</p>
 
-## 💻 Tech Stack
+---
 
-**Frontend / Full-stack**
+## 🧠 Know About Me
 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Hey there, I'm **Zulqurnain**.
 
-**Backend / Data**
+I'm a CS undergrad who builds full-stack apps and automation systems instead of doing his assignments on time. By day I write Next.js and Flutter. By night I write n8n workflows whose entire purpose is to replace tasks I'm too lazy to do myself — including, occasionally, talking to clients.
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+I run **Zupra Solutions**, an agency that automates WhatsApp order flows for e-commerce stores, and co-build **Elesh Clothing**, where I learned that good code doesn't matter if nobody trusts your Instagram page yet.
 
-**Mobile / Systems**
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🔥 Top Projects (built to avoid manual labor)
 
-**E-commerce / CMS**
+| Project | What it does |
+|---|---|
+| **[DEADZONE](https://github.com/Mr-Zulki/deadzone-game)** | C# / WPF 1v1 battle royale — because group projects needed a real coder |
+| **[Elesh Clothing](https://eleshclothing.shop)** | Next.js + Supabase storefront with a full WhatsApp COD pipeline, so customers don't have to learn "checkout" |
+| **Zupra Solutions** | n8n + ManyChat order-ops system — automating the parts of running a business I'd rather not do manually |
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white)
+---
 
-**Automation / Marketing**
+## 🔗 Connect
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Mr-Zulki"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-zulqurnain-hyder-793565280"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zhyder@zuprasolutions.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01f6fa9f7519f5da8e"><img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+</p>
 
-**Tools**
+> Code is never finished. It only becomes slightly less terrible after the next deploy.
+>
+> Every commit is a small apology to future-me, who will open this repo, see the spaghetti, and wonder who let me near a keyboard.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## 📊 Contribution
 
-![](https://github-readme-stats.vercel.app/api?username=Mr-Zulki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Zulki&theme=midnight-purple&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Zulki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Zulki&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Zulki&theme=midnight-purple&hide_border=true&show_icons=true&count_private=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Zulki&theme=midnight-purple&hide_border=true&layout=compact" width="42%"/>
+</div>
