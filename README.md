@@ -1,113 +1,90 @@
+<!-- BANNER: Replace this with your own banner image uploaded to your repo as "githubanner.jpg" -->
+<!-- Recommended: Make a similar dark landscape/cinematic banner on Canva with text: "Welcome to Zulqurnain's Github  </>" -->
+<img src="githubanner.jpg" width="100%"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zulqurnain-hyder-793565280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://zuprasolutions.com" target="_blank">
+    <img src="https://img.shields.io/badge/Zupra%20Solutions-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f6fa9f7519f5da8e" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mr-Zulki" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center"> 🧠 <em>About me</em> </h2>
+
+<img src="https://raw.githubusercontent.com/Mr-Zulki/Mr-Zulki/main/banner.gif" width="250" align="right" style="margin-left: 20px;" />
+
+<br/>
+
+<p>
+  Hey there! <em><b>I'm Muhammad Zulqurnain</b></em> — a full-stack developer and automation builder from <b>Faisalabad, Pakistan</b>.
+  I run <b>Zupra Solutions</b>, where I build WhatsApp order-automation systems for e-commerce businesses.
+  I'm also co-building <b>Elesh Clothing</b> — a full Next.js + Supabase store with COD ordering and Meta Ads.
+  Currently in my BS Computer Science at University of Faisalabad, shipping real products while studying, because waiting to graduate was never the plan.
+</p>
+
+<br/>
+
+<p align="center">
+   🎓 &nbsp; <em><b>BS Computer Science — University of Faisalabad</b></em> <br/>
+   🚀 &nbsp; <em><b>Founder @ Zupra Solutions — WhatsApp automation for e-commerce</b></em> <br/>
+   👕 &nbsp; <em><b>Co-founder @ Elesh Clothing — Next.js + Supabase e-commerce store</b></em> <br/>
+   ⚙️ &nbsp; <em><b>Automation builder — n8n, Google Apps Script, ManyChat</b></em> <br/>
+   💼 &nbsp; <em><b>Freelancer on Upwork — full-stack & automation projects</b></em> <br/>
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center"> ⚡ <em>Technologies</em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-000000?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=Shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center"> 📊 <em>Statistics</em> </h2>
+
 <div align="center">
 
-```
- ███████╗██╗   ██╗██╗      ██████╗ ██╗   ██╗██████╗ ███╗   ██╗ █████╗ ██╗███╗   ██╗
- ╚══███╔╝██║   ██║██║     ██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔══██╗██║████╗  ██║
-   ███╔╝ ██║   ██║██║     ██║   ██║██║   ██║██████╔╝██╔██╗ ██║███████║██║██╔██╗ ██║
-  ███╔╝  ██║   ██║██║     ██║▄▄ ██║██║   ██║██╔══██╗██║╚██╗██║██╔══██║██║██║╚██╗██║
- ███████╗╚██████╔╝███████╗╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██║██║ ╚████║
- ╚══════╝ ╚═════╝ ╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
-
-**I build systems that sell while you sleep.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqurnain-hyder-793565280)
-[![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6fa9f7519f5da8e)
-[![Website](https://img.shields.io/badge/Zupra%20Solutions-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zuprasolutions.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Zulki&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
----
-
-## ◈ Who Am I?
-
-<img align="right" src="https://raw.githubusercontent.com/Mr-Zulki/Mr-Zulki/main/banner.gif" width="280px" alt="Zulqurnain GIF"/>
-
-I'm **Muhammad Zulqurnain** — full-stack dev and automation builder from **Faisalabad, Pakistan**.
-
-Running **[Zupra Solutions](https://zuprasolutions.com)** — WhatsApp order-automation systems for e-commerce stores that are tired of processing orders by hand.
-
-Co-building **Elesh Clothing** — Next.js storefront, Supabase backend, COD ordering, Meta Ads, the whole pipeline.
-
-Currently doing my **BS in Computer Science** at University of Faisalabad — while shipping real products on the side, because waiting to graduate was never the plan.
-
-```
-If it repeats → automate it.
-If it needs a UI → build it clean.
-If it touches a DB → make sure it never breaks at 3am.
-```
-
-<br clear="right"/>
-
----
-
-## ◈ What I'm Building
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🚀 **Zupra Solutions** | n8n · WhatsApp API · Next.js | Order automation for e-commerce — plug in, let it run |
-| 👕 **Elesh Clothing** | Next.js · Supabase · Meta Ads | Full COD e-commerce store, built and live |
-
----
-
-## ◈ Tech Stack
-
-**Frontend / Full-Stack**
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend / Data**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Mobile / Systems**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Automation / Growth**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![TikTok Ads](https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![ManyChat](https://img.shields.io/badge/ManyChat-00C2E0?style=for-the-badge&logo=chatbot&logoColor=white)
-
-**E-Commerce / CMS**
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
----
-
-## ◈ GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mr-Zulki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Zulki&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Zulki&theme=midnight-purple&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Zulki&theme=midnight-purple&hide_border=true&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-*Code is never finished. It just ships.*
-
-**→ Got a project that needs automating?**
-[zuprasolutions.com](https://zuprasolutions.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqurnain-hyder-793565280) · [Upwork](https://www.upwork.com/freelancers/~01f6fa9f7519f5da8e)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Zulki&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
