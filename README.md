@@ -73,18 +73,6 @@
 
 <br/>
 
-<h2 align="center"> 📊 <em>Statistics</em> </h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Zulki&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Zulki&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Zulki&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
